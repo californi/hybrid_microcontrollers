@@ -1,0 +1,1 @@
+# restapi storing data. Take a look .net core and sqlite (or something else)
